@@ -1,0 +1,12 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 9671-7595
+
+ Directory of C:\Users\veena\Desktop\JAVA
+
+26-01-2017  11:11    <DIR>          .
+26-01-2017  11:11    <DIR>          ..
+25-01-2017  20:24               678 HelloNum.class
+26-01-2017  08:26               213 HelloNum.java
+26-01-2017  11:11                 0 test2.txt
+               3 File(s)            891 bytes
+               2 Dir(s)  636,267,503,616 bytes free
