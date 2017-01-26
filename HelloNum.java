@@ -1,6 +1,6 @@
 //package gitPractice;
 
-public class HelloNum{
+public class HelloNum {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
